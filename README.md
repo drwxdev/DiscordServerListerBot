@@ -20,7 +20,7 @@ This is a simple Discord bot script that lists all the servers it's currently in
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/elfadhel-dev/DiscordServerListerBot.git
+    git clone https://github.com/drwxdev/DiscordServerListerBot.git
     cd DiscordServerListerBot
     ```
 
